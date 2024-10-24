@@ -1,0 +1,2 @@
+# SmartGuard
+Phishing Detection Extension
